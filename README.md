@@ -1,6 +1,6 @@
 # Bearhug
 
-Bearhug adds a CSS class to an element when it's bigger than its immediate parent.
+Bearhug adds a CSS class to an element when it's wider than another element.
 
 It's useful for working with fixed-width elements in a fluid-grid context.
 
